@@ -1,0 +1,5 @@
+INFO System started
+WARNING Disk usage high
+ERROR Failed to connect to database
+INFO User login
+ERROR File not found
